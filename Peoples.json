@@ -4,6 +4,8 @@
     "Id": "usr_83fc7c3c-3fb7-4e1b-a7a1-515ab5cde69e",
     "Rank": "Dev",
     "CustomTag": "<color=#b78ede>♡</color> <color=#38cde0>WC DEV</color>",
-    "CustomColor" : new UnityEngine.Color(0.5312f, 0.226f, 1f, 0.9211f),
+    "R": 0.5312f,
+    "G": 0.226f,
+    "B": 1f,
   },
 ]
