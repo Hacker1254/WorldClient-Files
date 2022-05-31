@@ -217,8 +217,8 @@
   },
   {
     "Username":  "noneye2",
-    "UsrId": "  usr_32e1a161-bfba-4422-9490-5f7e47135622         ",
-    "Rank": " Trusted   ",
+    "UsrId": "usr_32e1a161-bfba-4422-9490-5f7e47135622",
+    "Rank": "Booster",
     "CustomTag": "<color=#CB8AFF>ｱひ尺ﾉ刀 丂んﾉ乇尺ﾑ</color>",
     "R": 0.53,
     "G": 0.226,
@@ -227,7 +227,7 @@
   {
     "Username": "Foolish Trooper",
     "UsrId": "usr_1eb6da1d-47f0-4551-a960-1460f9f45629",
-    "Rank": " Trusted ",
+    "Rank": "Booster",
     "CustomTag": "<color=#38cde0>Stoopy</color>",
     "R": 0.224,
     "G": 0.302,
@@ -236,7 +236,7 @@
   {
     "Username": "SuperNinja009",
     "UsrId": "usr_c69c7f8b-18f2-44b1-b021-5bdbee6849be",
-    "Rank": " Trusted ",
+    "Rank": "Booster",
     "CustomTag": "<color=#fa5a65>☁ </color> <color=#5a65fa>Ninja is best birb</color> <color=#fa5a65> ☁</color>",
     "R": 0.35,
     "G": 0.39,
