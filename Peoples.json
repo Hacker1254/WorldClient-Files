@@ -278,14 +278,14 @@
     "G": 0,
     "B": 1,
   },
-  {
+{
     "Username": "Evilynono",
     "UsrId": "usr_94273fc4-3d2e-4347-8407-50bf10e82099",
     "Rank": "Trusted",
     "CustomTag": "<color=#ff69da>The french furry</color> ",
-    "R": 0.5,
-    "G": 0.7,
-    "B": 0.7,
+    "R": 1,
+    "G": 0.412,
+    "B": 0.855,
   },
   {
     "Username": "Kaiki",
