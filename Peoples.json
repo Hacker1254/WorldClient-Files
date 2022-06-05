@@ -208,12 +208,12 @@
   },
   {
     "Username": "ĐɆM₳₦Đł₦₲ĐɆ₳₮Ή ",
-"UsrId": "usr_1331f8b4-06ac-42d6-90f9-f0280ac714f5",
-"Rank": "Booster",
-"CustomTag": "<color=#fe00de>Whats E9</color> <color=#00d0fe>Lost</color> <color=#27fe00>Random</color> <color=#fe0000>AdvancedSafetyOnTop</color>",
-"R": 0.5312,
-"G": 0.226,
-"B": 1,
+    "UsrId": "usr_1331f8b4-06ac-42d6-90f9-f0280ac714f5",
+    "Rank": "Booster",
+    "CustomTag": "<color=#fe00de>Whats E9</color> <color=#00d0fe>Lost</color> <color=#27fe00>Random</color> <color=#fe0000>AdvancedSafetyOnTop</color>",
+    "R": 0.5312,
+    "G": 0.226,
+    "B": 1,
   },
   {
     "Username":  "noneye2",
@@ -304,5 +304,14 @@
     "R": 0.5312,
     "G": 0.226,
     "B":  1,
+  },
+  {
+    "Username": "BlindnDeaf",
+    "UsrId": "usr_d1acff9b-f465-45a8-9829-18f9dd6accde",
+    "Rank": "Helper",
+    "CustomTag": "<color=#FFFF00>NO RECOGNITION</color>",
+    "R": 0,
+    "G": 0,
+    "B": 1,
   },
 ]
