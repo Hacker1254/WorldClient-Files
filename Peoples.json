@@ -44,7 +44,7 @@
     "G": 0.226,
     "B": 1,
   },
-    {
+  {
     "Username": "Cryptishy․",
     "UsrId": "usr_ef53c953-2ecd-45be-b1aa-ab428ad92b38",
     "Rank": "Booster",
@@ -62,7 +62,7 @@
     "G": 0.226,
     "B": 1,
   },
-{
+  {
     "Username": "Druigon",
     "UsrId": "usr_05f6c678-d40b-4d4d-bde4-1252216802cb",
     "Rank": "Admin",
@@ -116,7 +116,7 @@
     "G": 0.12,
     "B": 0.94,
   },
-{
+  {
     "Username": "օʍɨӄɨ",
     "UsrId": "usr_c8443fb1-c7d9-4d1c-969c-97053bfbda85",
     "Rank": "Booster",
@@ -125,7 +125,7 @@
     "G": 0.298,
     "B": 0.612,
   },
-{
+  {
     "Username": "Scarapter",
     "UsrId": "usr_13679b6f-1671-4c1f-8fec-fe2c36fb365a",
     "Rank": "Booster",
@@ -134,7 +134,7 @@
     "G": 0.643,
     "B": 0.988,
   },
-{
+  {
     "Username": "Atpsace002",
     "UsrId": "usr_742a2d90-f495-4d47-acec-6d27c45c211d",
     "Rank": "Booster",
@@ -152,7 +152,7 @@
     "G": 1,
     "B": 1,
   },
-{
+  {
     "Username": "MҽӀօղ",
     "UsrId": "usr_bccdad2f-d841-47ed-b2cd-646ad0ecea84",
     "Rank": "Booster/Trusted",
@@ -161,7 +161,7 @@
     "G": 0.4,
     "B": 0.121,
   },
-{
+  {
     "Username": "Valeazra",
     "UsrId": "usr_1daabfcb-3a0f-4cc0-bed0-d43d9eed46fb",
     "Rank": "Supporter",
@@ -170,7 +170,7 @@
     "G": 0.839,
     "B": 1,
   },
-{
+  {
     "Username": "Ashley ღ",
     "UsrId": "usr_83b3b8ef-0424-4959-9658-c2cc2866d3fa",
     "Rank": "Booster",
@@ -179,7 +179,7 @@
     "G": 0.5,
     "B": 0.5,
   },
-{
+  {
     "Username": "Heshie",
     "UsrId": "usr_13901801-dde6-4424-a4f4-d268ae6aaced",
     "Rank": "Booster",
@@ -187,7 +187,7 @@
     "R": 0.134,
     "G": 0,
     "B": 0.179,
-},
+  },
   {
     "Username": "psykotoni",
     "UsrId": "usr_f9fce508-a2f3-4a7f-9e71-14cae1c45176",
@@ -269,7 +269,7 @@
     "G": 0.82,
     "B": 0.86,
   },
-{
+  {
     "Username": "ɯԋσʅҽʂσɱҽ",
     "UsrId": "usr_6697123c-112b-467f-890e-d3243dea04ba",
     "Rank": "Booster",
@@ -278,7 +278,7 @@
     "G": 0,
     "B": 1,
   },
-{
+  {
     "Username": "Evilynono",
     "UsrId": "usr_94273fc4-3d2e-4347-8407-50bf10e82099",
     "Rank": "Booster",
@@ -331,5 +331,14 @@
     "R": 0.253,
     "G": 0.190,
     "B": 0.194,
+  },
+  {
+  "Username":  "S14_Zenki",
+    "UsrId": "usr_0bd077d0-a5b7-4d54-b44d-50a0b122e030",
+    "Rank": "Booster",
+    "CustomTag": "<color=#ff0000>DriftBoi</color>",
+    "R": 1,
+    "G": 0,
+    "B": 0,
   },
 ]
