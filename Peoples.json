@@ -342,12 +342,21 @@
     "B": 0.194,
   },
   {
-  "Username":  "S14_Zenki",
+    "Username":  "S14_Zenki",
     "UsrId": "usr_0bd077d0-a5b7-4d54-b44d-50a0b122e030",
     "Rank": "Booster",
     "CustomTag": "<color=#ff0000>DriftBoi</color>",
     "R": 1,
     "G": 0,
     "B": 0,
+  },
+  {
+   "Username": "Kakiitekuto",
+   "UsrId": "usr_c97ac0ed-c53f-485f-a799-b1d8b32feeba",
+   "Rank": "Booster",
+   "CustomTag": "<color=#800080>Giggity Goober</color>",
+   "R": 0.1,
+   "G": 0.1,
+   "B": 0.1,
   },
 ]
