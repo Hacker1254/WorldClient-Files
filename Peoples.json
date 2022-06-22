@@ -482,7 +482,7 @@
     "Rank": "Booster",
     "CustomTag": "<color=#00FFFF>Proto</color>",
     "R": 0,
-    "G":1,
+    "G": 1,
     "B": 1,
   },
   {
@@ -495,18 +495,18 @@
     "B": 0.498,
   },
   {
-    "Username": "Ping Spike"
-    "UsrId": "usr_91f0a234-4b13-43f9-a34e-b7a11771601e"
-    "Rank": "Booster"
+    "Username": "Ping Spike",
+    "UsrId": "usr_91f0a234-4b13-43f9-a34e-b7a11771601e",
+    "Rank": "Booster",
     "CustomTag": "<color=#7500ff>VR Enthusiast</color>",
     "R": 0.46,
     "G": 0,
     "B": 1,
   },
   {
-    "Username": "Kesu_"
-    "UsrId": "usr_d8e5ca19-e978-4a4c-a7dc-7598c46abd83"
-    "Rank": "Booster"
+    "Username": "Kesu_",
+    "UsrId": "usr_d8e5ca19-e978-4a4c-a7dc-7598c46abd83",
+    "Rank": "Booster",
     "CustomTag": "<color=#7500ff>fbt</color>",
     "R": 1,
     "G": 0.5,
