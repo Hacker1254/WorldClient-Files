@@ -521,4 +521,13 @@
     "G": 0.5,
     "B": 0.5,
   },
+  {
+    "Username": "TheFluffyCat",
+    "UsrId": "usr_455f1a83-5a98-4584-b5c6-b52d9920afd5",
+    "Rank": "Booster",
+    "CustomTag": "<color=#9afa5a>CAT</color>",
+    "R": 0.60, 
+    "G": 0.98,
+    "B": 0.35,
+  },
 ]
