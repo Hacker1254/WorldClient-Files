@@ -566,4 +566,22 @@
     "G": 0.196,
     "B": 0.914,
   },
+  {
+    "Username": "TheBesTacos",
+    "UsrId": "usr_ae518ca1-37cb-49b9-b168-c9ec65fd5321",
+    "Rank": "Booster",
+    "CustomTag": "<color=#fa9f5a>MVP</color>",
+    "R": 0,
+    "G": 0,
+    "B": 0.914,
+  },
+  {
+    "Username": "caramel wafflel",
+    "UsrId": "usr_148451aa-71e4-4a70-961a-e044d51b2dcd",
+    "Rank": "Booster",
+    "CustomTag": "<color=#775afa>E-Whore</color>",
+    "R": 0.9,
+    "G": 0.25,
+    "B": 1,
+  },
 ]
