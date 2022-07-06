@@ -682,4 +682,22 @@
     "G": 0.12,
     "B": 0.12,
   },
+  {
+    "Username": "Just_JoneZ",
+    "UsrId": "usr_b26e6514-166c-4b8d-b4ff-823e3cf06520",
+    "Rank": "Booster",
+    "CustomTag": "<color=#FF0060>Asshole<3</color>",
+    "R": 0.2,
+    "G": 0.2,
+    "B": 0.2,
+  },
+  {
+    "Username": "MasterCheese28",
+    "UsrId": "usr_06bd9415-31a2-4593-bbc7-a918f5d42aa4",
+    "Rank": "Booster",
+    "CustomTag": "<color=#FBDB65>MASTER OF CHEESE</color>",
+    "R": 0.98,
+    "G": 0.94,
+    "B": 0.35,
+  },
 ]
