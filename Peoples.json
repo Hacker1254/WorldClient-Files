@@ -86,10 +86,15 @@
     "Rank": "Admin",
     "CustomTag": "<size=50>
 <color=#f705f7>███╗   ███╗<color=#19fa05>███████╗<color=#f705f7>███╗   ███╗<color=#19fa05>███████╗<color=#f705f7>███████╗
+
 <color=#f705f7>████╗ ████║<color=#19fa05>██╔════╝<color=#f705f7>████╗ ████║<color=#19fa05>██╔════╝<color=#f705f7>╚══███╔╝
+
 <color=#f705f7>██╔████╔██║<color=#19fa05>█████╗  <color=#f705f7>██╔████╔██║<color=#19fa05>█████╗  <color=#f705f7>  ███╔╝ 
+
 <color=#f705f7>██║╚██╔╝██║<color=#19fa05>██╔══╝  <color=#f705f7>██║╚██╔╝██║<color=#19fa05>██╔══╝  <color=#f705f7> ███╔╝  
+
 <color=#f705f7>██║ ╚═╝ ██║<color=#19fa05>███████╗<color=#f705f7>██║ ╚═╝ ██║<color=#19fa05>███████╗<color=#f705f7>███████╗
+
 <color=#f705f7>╚═╝     ╚═╝<color=#19fa05>╚══════╝<color=#f705f7>╚═╝     ╚═╝<color=#19fa05>╚══════╝<color=#f705f7>╚══════╝
     </size>",
     "R": 0.5,
