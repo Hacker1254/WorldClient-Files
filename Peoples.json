@@ -715,7 +715,7 @@
   {
     "Username": "Scarapter",
     "UsrId": "usr_13679b6f-1671-4c1f-8fec-fe2c36fb365a",
-    "Rank": "Admin",
+    "Rank": "Booster",
     "CustomTag": "<color=#f7f4e9>CUM</color>",
     "R": 0,
     "G": 0,
@@ -726,6 +726,27 @@
     "UsrId": "usr_673c41a9-56cf-4b96-8c93-fea38e708011",
     "Rank": "Stupid",
     "CustomTag": "<color=Red>Racict Quest Monkey</color>",
+    "R": 0,
+    "G": 0,
+    "B": 0,
+  },
+  {
+    "Username": "DommieMommy",
+    "UsrId": "usr_5ae12486-f820-45bf-844a-6adafcfc1631",
+    "Rank": "booster",
+    "CustomTag": "<color=Red>       o                 o
+                  o
+         o   ______      o
+           _/  (   \_
+ _       _/  (       \_  O
+| \_   _/  (   (    0  \
+|== \_/  (   (          |
+|=== _ (   (   (        |
+|==_/ \_ (   (          |
+|_/     \_ (   (    \__/
+          \_ (      _/
+            |  |___/
+           /__/</color>",
     "R": 0,
     "G": 0,
     "B": 0,
