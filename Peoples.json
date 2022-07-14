@@ -1041,4 +1041,13 @@
     "G": 0.2,
     "B": 0.71,
   },
+  {
+    "Username": "SolarMatch",
+    "UsrId": "usr_db4e91dc-c85c-440e-ab26-c06103dad0e4",
+    "Rank": "Booster",
+    "CustomTag": "<color=#8601af>space</color>",
+    "R": 0.35,
+    "G": 0.98,
+    "B": 0.62,
+  },
 ]
