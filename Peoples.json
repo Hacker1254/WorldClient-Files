@@ -1122,4 +1122,22 @@
     "G": 0.972,
     "B": 0.918,
   },
+  {
+    "Username": "StoleUrPancakes",
+    "UsrId": "usr_8850e6e4-5b28-4ed6-aeed-53b48e3368ae",
+    "Rank": "Booster",
+    "CustomTag": "<color=#dc143c>Pancake Fein</color>",
+    "R": 0.71, 
+    "G": 0.78,
+    "B": 0.863,
+  },
+  {
+    "Username": "SARGE4NT MAYH3M ",
+    "UsrId": "usr_fb686550-5df5-4a73-8980-802c767f0a5c",
+    "Rank": "Booster",
+    "CustomTag": "<color=#0000ff>World Sargent</color>",
+    "R": 0.5, 
+    "G": 0,
+    "B": 0.5,
+  },
 ]
