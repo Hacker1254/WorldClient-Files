@@ -1140,4 +1140,22 @@
     "G": 0,
     "B": 0.5,
   },
+  {
+    "Username": "A-dvogado ",
+    "UsrId": "usr_82f821e6-4626-4f2d-a0d4-2a29f7079300",
+    "Rank": "Booster",
+    "CustomTag": "<color=#ff00ff>brazilian bitch</color>",
+    "R": 0.5, 
+    "G": 0,
+    "B": 0.5,
+  },
+  {
+    "Username": "Willustrations",
+    "UsrId": "usr_de295831-1b10-49b6-940b-37bdd79a53ee",
+    "Rank": "Booster",
+    "CustomTag": "<color=>Wendigo</color>",
+    "R": 0.221, 
+    "G": 0.160,
+    "B": 0.221,
+  },
 ]
