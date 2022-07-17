@@ -1167,4 +1167,13 @@
     "G": 0.1,
     "B": 0.5,
   },
+  {
+    "Username": "Spartan 323",
+    "UsrId": "usr_7d8ea23c-668b-44d3-b0ea-14c90ab2de6c",
+    "Rank": "Booster",
+    "CustomTag": "<color=#ff0000>Rolling Boy</color>",
+    "R": 0.1, 
+    "G": 0.1,
+    "B": 0.1,
+  },
 ]
