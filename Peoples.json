@@ -1205,4 +1205,13 @@ GO BRR</color>",
     "G": 0,
     "B": 1,
   },
+  {
+    "Username": "WhitecatVR",
+    "UsrId": "usr_2a3de9ef-b3ef-4512-83f3-0fc1567a6eff",
+    "Rank": "Booster",
+    "CustomTag": "<color=#d8d8d8r>The Cat</color>",
+    "R": 0.145,
+    "G": 0.161,
+    "B": 0.169,
+  },
 ]
